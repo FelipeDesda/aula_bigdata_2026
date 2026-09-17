@@ -7,7 +7,7 @@
 
 - **Nome:** Felipe Damasceno
 - **RA:** 6325128
-- **Branch:** aula-05-aws-SEURA
+- **Branch:** main
 - **Data:** 16/09/2026
 
 ---
@@ -201,7 +201,7 @@ labrole_arn = "arn:aws:iam::799050540047:role/LabRole"
 
 Print:
 ```
-![terraform apply](01-apply.png)
+01-apply.png
 ```
 
 ---
@@ -243,7 +243,7 @@ Veja o resultado com: ./ver_resultado.sh
 
 Print:
 ```
-![job success](02-job-success.png)
+02-job-success.png
 ```
 
 ---
@@ -441,7 +441,7 @@ via,1
 
 Print (opcional):
 ```
-![resultado word count](03-resultado.png)
+03-resultado.png
 ```
 
 ---
@@ -639,7 +639,7 @@ Destroy complete! Resources: 5 destroyed.
 
 Print:
 ```
-![terraform destroy](06-destroy.png)
+04-destroy.png
 ```
 
 ---
