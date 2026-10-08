@@ -1,18 +1,6 @@
-__pycache__/
-*.pyc
-.pytest_cache/
-venv/
-.venv/
-*.egg-info/
-.DS_Store
-.kiro/
-
-# Docker
-derby.log
-metastore_db/
-spark-warehouse/
-test_output.txt
-TEMPLATE_GUIA_PARA_PROFESSOR.md
+# =============================================================================
+# .gitignore — aws-lab (aula-07 • DEMO DO PROFESSOR)
+# =============================================================================
 
 # --- Artefatos do Terraform ---
 .terraform/
